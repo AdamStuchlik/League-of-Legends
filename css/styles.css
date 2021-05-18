@@ -1,0 +1,179 @@
+.nadpis1 {
+    color: darkgoldenrod;
+    font-size: 60px;
+    font-family: Arial Black;
+    text-align: center;
+    font-weight: 800;
+}
+
+.nadpis2 {
+    color: darkgoldenrod;
+    font-family: italic;
+}
+
+.nadpis3 {
+    color: teal;
+    font-family: italic;
+}
+
+.tlacitko1 {
+    transition: 1000s;
+    background-color: teal;
+    border-color: black;
+    color: white;
+    margin: 10px
+}
+
+.tlacitko2 {
+    transition: 1000s;
+    background-color: black;
+    border-color: white;
+    color: white;
+    margin: 10px
+}
+
+.nadpis4 {
+    color: white;
+    font-size: 60px;
+    font-family: Arial Black;
+    text-align: center;
+    font-weight: 800;
+}
+
+.container {
+    position: relative;
+}
+
+.center {
+    position: absolute;
+    top: 65%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+}
+
+.center1 {
+    position: absolute;
+    top: 64%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+}
+
+.img1 {
+    width: 100%;
+    height: auto;
+    opacity: 1;
+}
+
+.nadpis5 {
+    color: rgb(255, 255, 255);
+    font-family: "Beaufort for LOL", serif;
+    font-weight: 800;
+    letter-spacing: 0.03em;
+    font-style: italic;
+    text-align: center;
+    font-weight: 800;
+    text-transform: uppercase;
+    font-size: calc(61.82px + 3.03vw);
+    z-index: +1;
+}
+
+.nadpis6 {
+    color: white;
+    font-size: 55px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.25rem;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-align: center;
+    font-weight: 800;
+    color: rgb(255, 255, 255);
+    z-index: +1;
+}
+
+.center5 {
+    text-align: center;
+    border: 0.1px solid gray;
+    position: absolute;
+    top: 85%;
+    width: 96%;
+    font-size: 18px;
+
+}
+
+.hole {
+    position: absolute;
+    left: 105px;
+    width: 900px;
+    height: 375px;
+}
+
+.hole1 {
+    position: absolute;
+    left: 105px;
+    width: 900px;
+    height: 400px;
+}
+
+.hole2 {
+    position: absolute;
+    left: 105px;
+    width: 900px;
+    height: 425px;
+}
+
+.hole3 {
+    position: absolute;
+    left: 105px;
+    width: 900px;
+    height: 450px;
+}
+
+.text1 {
+
+    color: white;
+
+}
+
+.text2 {
+    color: white;
+}
+
+.text3 {
+    color: gray;
+}
+
+.kok {
+    border-color: rgb(118, 118, 119);
+    opacity: 1.0;
+}
+
+.kok1 {
+    border-color: rgb(118, 118, 119);
+    opacity: 1.0;
+}
+
+.idk {
+    width: 100%;
+    color: rgb(208, 168, 92);
+    font-weight: normal;
+}
+
+.idk2 {
+    display: block;
+    text-align: center;
+    color: rgb(208, 168, 92);
+    font-size: 0.625rem;
+    letter-spacing: 0.15em;
+}
+.ko {
+    border-color: white;
+}
+
+div.pozadi {
+    background-repeat: no-repeat;
+    background-image: url("../img/map.png");
+    opacity: 0.3;
+    position: relative;
+}
